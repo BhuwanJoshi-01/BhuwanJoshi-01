@@ -32,12 +32,11 @@ const profile = {
     "Java",
     "PHP",
     "C",
-    "C++"
   ],
 }
 ```
 
-## 🌱 I'm currently learning
+## 🌱 I'm currently learning - Developing - Serving 
 
 Diving deep into AI/ML
 
@@ -47,44 +46,113 @@ Diving deep into AI/ML
 {
   "frontend": [
     "React",
+    "Vue.js",
+    "Vite",
     "HTML5",
     "CSS3",
-    "Tailwind",
-    "Vue.js"
+    "Tailwind CSS",
+    "Bootstrap",
+    "React Query",
+    "Axios"
   ],
+
   "backend": [
     "Node.js",
     "Express",
+    "NestJS",
     "Django",
+    "Django REST Framework",
+    "FastAPI",
     "Redis",
     "PostgreSQL",
     "MySQL",
-    "SQLite"
+    "SQLite",
+    "MongoDB",
+    "REST API"
   ],
+
+  "real_time_communication": [
+    "WebSockets",
+    "Socket.IO",
+    "WebRTC",
+    "Server-Sent Events (SSE)"
+  ],
+
+  "authentication_authorization": [
+    "JWT",
+    "OAuth 2.0",
+    "OpenID Connect",
+    "Session-based Auth",
+    "Passport.js",
+    "Auth0",
+    "Firebase Authentication"
+  ],
+
   "devops": [
     "Docker",
     "Kubernetes",
-    "GitHub Actions"
+    "GitHub Actions",
+    "Nginx",
+    "CI/CD Pipelines",
   ],
-  "ai/ml": [
+
+  "cloud_platforms": [
+    "AWS",
+    "Google Cloud Platform",
+    "Firebase",
+    "Vercel",
+    "Netlify",
+    "DigitalOcean"
+  ],
+
+  "ai_ml": [
     "Pandas",
     "NumPy",
-    "Scikit-Learn"
+    "Scikit-Learn",
+    "TensorFlow",
+    "PyTorch",
+    "Matplotlib",
+    "Seaborn"
   ],
+
   "mobile": [
     "React Native",
-    "Android"
+    "Expo",
+    "Android",
+    "Flutter",
+    "Gradlew"
   ],
+
+  "testing": [
+    "Jest",
+    "Playwright",
+    "PyTest",
+    "JUnit"
+  ],
+
+  "build_tools_package_managers": [
+    "Webpack",
+    "Vite",
+    "Babel",
+    "npm",
+    "yarn",
+    "pnpm"
+  ],
+
+  "monitoring_logging": [
+    "Sentry",
+    "Logstash"
+  ],
+
   "languages": [
     "TypeScript",
     "JavaScript",
     "Python",
     "Java",
     "PHP",
-    "C",
-    "C++"
   ]
 }
+
 ```
 
 ## 🌐 Socials
