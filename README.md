@@ -1,4 +1,4 @@
-# Bhuwan Joshi
+# Bhuwan Joshi ( Full Stack Developer )
 
 ```typescript
 const profile = {
