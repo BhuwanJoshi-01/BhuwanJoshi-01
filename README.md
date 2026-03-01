@@ -51,8 +51,6 @@ Software engineer specializing in the design, development, and deployment of sca
 
 ## Featured Projects
 
-*(Update the placeholders below with your actual projects)*
-
 * **ForgeX** — A scalable web application built with Django and PostgreSQL], improving mentorship, collaboration and learning.
 * **Quick Wash** — Cross-platform mobile application developed using React Native, featuring real-time synchronization via WebSockets.
 * **Friday-Whatsapp-bot** — Microservice-based API utilizing Javascript, designed to securely process and route whatapp text to AI model processing them and generating a response.
@@ -77,10 +75,9 @@ Software engineer specializing in the design, development, and deployment of sca
 
 ## GitHub Analytics
 
-<p align="left">
-<img height="150" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DBhuwanJoshi-01%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3Dblack%26text_color%3D333333%26icon_color%3D000000" alt="Bhuwan Joshi's GitHub Stats" />
-<img height="150" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DBhuwanJoshi-01%26layout%3Dcompact%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3Dblack%26text_color%3D333333" alt="Top Languages" />
-</p>
+![Bhuwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhuwanJoshi-01&show_icons=true&theme=transparent&hide_border=true&title_color=black&text_color=333333&icon_color=000000)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhuwanJoshi-01&layout=compact&theme=transparent&hide_border=true&title_color=black&text_color=333333)
 
 ---
 
