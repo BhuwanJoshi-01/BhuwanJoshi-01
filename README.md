@@ -1,90 +1,187 @@
-# Bhuwan Joshi
+# Bhuwan Joshi ( Full Stack Developer )
 
-### Full Stack Developer | Web, Mobile & Cloud Architecture
+```typescript
+const profile = {
+  name: "Bhuwan Joshi",
+  bio: "Full-stack web/app developer",
+  learning: "Diving deep into AI/ML",
+  skills: [
+    "React",
+    "HTML5",
+    "CSS3",
+    "Tailwind",
+    "Vue.js",
+    "Node.js",
+    "Express",
+    "Django",
+    "Redis",
+    "PostgreSQL",
+    "MySQL",
+    "SQLite",
+    "Docker",
+    "Kubernetes",
+    "GitHub Actions",
+    "Pandas",
+    "NumPy",
+    "Scikit-Learn",
+    "React Native",
+    "Android",
+    "TypeScript",
+    "JavaScript",
+    "Python",
+    "Java",
+    "PHP",
+    "C",
+  ],
+}
+```
 
----
+## 🌱 I'm currently learning - Developing - Serving 
 
-## Professional Summary
+Diving deep into AI/ML
 
-Software engineer specializing in the design, development, and deployment of scalable web and mobile applications. Adept at navigating complex full-stack ecosystems, from crafting responsive frontends to architecting robust, secure backend services. Currently bridging the gap between traditional software engineering and advanced Artificial Intelligence/Machine Learning integrations. Focused on writing clean, maintainable code and building high-performance systems.
+## 💻 Tech Stack
 
----
+```json
+{
+  "frontend": [
+    "React",
+    "Vue.js",
+    "Vite",
+    "HTML5",
+    "CSS3",
+    "Tailwind CSS",
+    "Bootstrap",
+    "React Query",
+    "Axios"
+  ],
 
-## Technical Expertise
+  "backend": [
+    "Node.js",
+    "Express",
+    "NestJS",
+    "Django",
+    "Django REST Framework",
+    "FastAPI",
+    "Redis",
+    "PostgreSQL",
+    "MySQL",
+    "SQLite",
+    "MongoDB",
+    "REST API"
+  ],
 
-### Languages & Core
+  "real_time_communication": [
+    "WebSockets",
+    "Socket.IO",
+    "WebRTC",
+    "Server-Sent Events (SSE)"
+  ],
 
-| Category | Technologies |
-| --- | --- |
-| **Languages** | TypeScript, JavaScript, Python, Java, PHP, C |
-| **Markup/Style** | HTML5, CSS3, Tailwind CSS, Bootstrap |
+  "authentication_authorization": [
+    "JWT",
+    "OAuth 2.0",
+    "OpenID Connect",
+    "Session-based Auth",
+    "Passport.js",
+    "Auth0",
+    "Firebase Authentication"
+  ],
 
-### Frameworks & Libraries
+  "devops": [
+    "Docker",
+    "Kubernetes",
+    "GitHub Actions",
+    "Nginx",
+    "CI/CD Pipelines",
+  ],
 
-| Category | Technologies |
-| --- | --- |
-| **Frontend** | React, Vue.js, React Query, Axios |
-| **Backend** | Node.js, Express, NestJS, Django, Django REST Framework, FastAPI |
-| **Mobile** | React Native, Expo, Android, Flutter |
-| **AI / ML** | Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, Matplotlib, Seaborn |
+  "cloud_platforms": [
+    "AWS",
+    "Google Cloud Platform",
+    "Firebase",
+    "Vercel",
+    "Netlify",
+    "DigitalOcean"
+  ],
 
-### Infrastructure, Data & DevOps
+  "ai_ml": [
+    "Pandas",
+    "NumPy",
+    "Scikit-Learn",
+    "TensorFlow",
+    "PyTorch",
+    "Matplotlib",
+    "Seaborn"
+  ],
 
-| Category | Technologies |
-| --- | --- |
-| **Databases** | PostgreSQL, MySQL, SQLite, MongoDB, Redis |
-| **Cloud & Hosting** | AWS, Google Cloud Platform, DigitalOcean, Vercel, Netlify, Firebase |
-| **DevOps & Tools** | Docker, Kubernetes, GitHub Actions, Nginx, CI/CD Pipelines |
-| **Testing** | Jest, Playwright, PyTest, JUnit |
-| **Build Tools** | Webpack, Vite, Babel, npm, yarn, pnpm |
+  "mobile": [
+    "React Native",
+    "Expo",
+    "Android",
+    "Flutter",
+    "Gradlew"
+  ],
 
----
+  "testing": [
+    "Jest",
+    "Playwright",
+    "PyTest",
+    "JUnit"
+  ],
 
-## Architecture & Engineering Focus
+  "build_tools_package_managers": [
+    "Webpack",
+    "Vite",
+    "Babel",
+    "npm",
+    "yarn",
+    "pnpm"
+  ],
 
-* **Real-Time Systems:** Designing low-latency data pipelines and interactive features using WebSockets, Socket.IO, WebRTC, and Server-Sent Events (SSE).
-* **Secure Authentication & Identity:** Implementing robust authorization flows across distributed architectures using JWT, OAuth 2.0, OpenID Connect, and federated identity providers (Auth0, Passport.js).
-* **Scalable Deployments:** Leveraging containerization (Docker) and orchestration (Kubernetes) to ensure high availability and efficient resource utilization.
-* **Observability:** Maintaining application health and tracking anomalies using centralized monitoring and logging tools like Sentry and Logstash.
+  "monitoring_logging": [
+    "Sentry",
+    "Logstash"
+  ],
 
----
+  "languages": [
+    "TypeScript",
+    "JavaScript",
+    "Python",
+    "Java",
+    "PHP",
+  ]
+}
 
-## Featured Projects
+```
 
-* **ForgeX** — A scalable web application built with Django and PostgreSQL], improving mentorship, collaboration and learning.
-* **Quick Wash** — Cross-platform mobile application developed using React Native, featuring real-time synchronization via WebSockets.
-* **Friday-Whatsapp-bot** — Microservice-based API utilizing Javascript, designed to securely process and route whatapp text to AI model processing them and generating a response.
+## 🌐 Socials
 
----
+```javascript
+const socials = {
+  github: "BhuwanJoshi-01",
+  linkedin: "https://www.linkedin.com/in/bhuwanjoshi-np/",
+  website: "https://joshibhuwan.com.np",
+  instagram: "https://www.instagram.com/soulxlegend1/",
+}
+```
 
-## Current Work & Goals
+<div>
+<a href="https://github.com/BhuwanJoshi-01"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/bhuwanjoshi-np/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://joshibhuwan.com.np"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> <a href="https://www.instagram.com/soulxlegend1/"><img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+</div>
 
-**Actively Learning:** Deepening expertise in Artificial Intelligence and Machine Learning. Focusing on integrating predictive models and data analytics into production-ready web and mobile applications using TensorFlow and PyTorch.
+## 📫 How to reach me
 
-**Professional Direction:** Seeking to build highly scalable, distributed systems while incorporating intelligent, data-driven features to solve complex engineering challenges.
+```javascript
+const contact = {
+  email: "bhuwanj779@gmail.com",
+  phone: "+9779862488873",
+}
+```
 
----
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects!");
 
-## Engineering Principles
-
-1. **Modularity & Reusability:** Designing decoupled components and microservices to ensure long-term maintainability.
-2. **Test-Driven Reliability:** Emphasizing rigorous automated testing (E2E, integration, and unit tests) to minimize regressions in production environments.
-3. **Security by Design:** Treating security as a foundational requirement, prioritizing secure data transmission, safe storage, and strict access controls.
-
----
-
-## GitHub Analytics
-
-![Bhuwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhuwanJoshi-01&show_icons=true&theme=transparent&hide_border=true&title_color=black&text_color=333333&icon_color=000000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhuwanJoshi-01&layout=compact&theme=transparent&hide_border=true&title_color=black&text_color=333333)
-
----
-
-## Connect & Collaborate
-
-* **Portfolio:** [joshibhuwan.com.np](https://joshibhuwan.com.np)
-* **LinkedIn:** [linkedin.com/in/bhuwanjoshi-np](https://www.linkedin.com/in/bhuwanjoshi-np/)
-* **Email:** [bhuwanj779@gmail.com](mailto:bhuwanj779@gmail.com)
-
-> *"Building robust software through continuous learning and disciplined engineering."*
+process.exit(0); // Until next time 👋
+```
