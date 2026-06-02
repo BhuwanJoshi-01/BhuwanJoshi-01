@@ -1,187 +1,75 @@
-# Bhuwan Joshi ( Full Stack Developer )
+<h1 align="center">Hi, I'm Bhuwan Joshi 👋</h1>
 
-```typescript
-const profile = {
-  name: "Bhuwan Joshi",
-  bio: "Full-stack web/app developer",
-  learning: "Diving deep into AI/ML",
-  skills: [
-    "React",
-    "HTML5",
-    "CSS3",
-    "Tailwind",
-    "Vue.js",
-    "Node.js",
-    "Express",
-    "Django",
-    "Redis",
-    "PostgreSQL",
-    "MySQL",
-    "SQLite",
-    "Docker",
-    "Kubernetes",
-    "GitHub Actions",
-    "Pandas",
-    "NumPy",
-    "Scikit-Learn",
-    "React Native",
-    "Android",
-    "TypeScript",
-    "JavaScript",
-    "Python",
-    "Java",
-    "PHP",
-    "C",
-  ],
-}
-```
+<p align="center">
+  <b>Full-Stack Developer — Web & Mobile</b><br>
+  I build complete web apps and cross-platform mobile apps, from UI to API to deployment.
+</p>
 
-## 🌱 I'm currently learning - Developing - Serving 
+<p align="center">
+  <a href="https://joshibhuwan.com.np">🌐 Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/">💼 LinkedIn</a> ·
+  <a href="mailto:bhuwanj779@gmail.com">📩 Email</a>
+</p>
 
-Diving deep into AI/ML
+---
 
-## 💻 Tech Stack
+### 🚀 What I do
+- **Web apps** — responsive front-ends (React, Vue) backed by robust APIs (Node/Express, Django, FastAPI)
+- **Mobile apps** — cross-platform iOS + Android with React Native & Flutter
+- **End-to-end delivery** — database design, REST APIs, auth, and deployment with Docker on AWS/GCP
+- **Bonus:** AI/ML integrations (LLM chatbots, ML models) when a project needs them
 
-```json
-{
-  "frontend": [
-    "React",
-    "Vue.js",
-    "Vite",
-    "HTML5",
-    "CSS3",
-    "Tailwind CSS",
-    "Bootstrap",
-    "React Query",
-    "Axios"
-  ],
+💼 **Open to freelance & contract work with international teams.**
 
-  "backend": [
-    "Node.js",
-    "Express",
-    "NestJS",
-    "Django",
-    "Django REST Framework",
-    "FastAPI",
-    "Redis",
-    "PostgreSQL",
-    "MySQL",
-    "SQLite",
-    "MongoDB",
-    "REST API"
-  ],
+---
 
-  "real_time_communication": [
-    "WebSockets",
-    "Socket.IO",
-    "WebRTC",
-    "Server-Sent Events (SSE)"
-  ],
+### 🛠️ Tech Stack
 
-  "authentication_authorization": [
-    "JWT",
-    "OAuth 2.0",
-    "OpenID Connect",
-    "Session-based Auth",
-    "Passport.js",
-    "Auth0",
-    "Firebase Authentication"
-  ],
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-  "devops": [
-    "Docker",
-    "Kubernetes",
-    "GitHub Actions",
-    "Nginx",
-    "CI/CD Pipelines",
-  ],
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-  "cloud_platforms": [
-    "AWS",
-    "Google Cloud Platform",
-    "Firebase",
-    "Vercel",
-    "Netlify",
-    "DigitalOcean"
-  ],
+**Mobile**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-  "ai_ml": [
-    "Pandas",
-    "NumPy",
-    "Scikit-Learn",
-    "TensorFlow",
-    "PyTorch",
-    "Matplotlib",
-    "Seaborn"
-  ],
+**Database & DevOps**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-  "mobile": [
-    "React Native",
-    "Expo",
-    "Android",
-    "Flutter",
-    "Gradlew"
-  ],
+---
 
-  "testing": [
-    "Jest",
-    "Playwright",
-    "PyTest",
-    "JUnit"
-  ],
+### 📌 Featured Projects
 
-  "build_tools_package_managers": [
-    "Webpack",
-    "Vite",
-    "Babel",
-    "npm",
-    "yarn",
-    "pnpm"
-  ],
+| Project | What it is | Stack |
+|---|---|---|
+| **[Friday WhatsApp AI Bot](https://github.com/BhuwanJoshi-01/friday-whatsapp-ai-bot)** | Context-aware WhatsApp assistant that remembers past conversations | Node.js, Groq AI |
+| **[UA Hackathon 2026](https://github.com/BhuwanJoshi-01/UA-Hackathon-2026)** | Full app built under a 48-hour deadline | TypeScript |
+| **[Heart Disease ML](https://github.com/BhuwanJoshi-01/DSA_Heart_Disease)** | End-to-end ML classification pipeline | Python, Scikit-Learn |
+| **[Smart Refrigerator](https://github.com/BhuwanJoshi-01/Smart_Refrigerator_Using_Arduino)** | IoT hardware + software integration | Arduino, C++ |
 
-  "monitoring_logging": [
-    "Sentry",
-    "Logstash"
-  ],
+---
 
-  "languages": [
-    "TypeScript",
-    "JavaScript",
-    "Python",
-    "Java",
-    "PHP",
-  ]
-}
+### 📊 GitHub Stats
 
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BhuwanJoshi-01&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuwanJoshi-01&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
-## 🌐 Socials
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhuwanJoshi-01&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
-```javascript
-const socials = {
-  github: "BhuwanJoshi-01",
-  linkedin: "https://www.linkedin.com/in/bhuwanjoshi-np/",
-  website: "https://joshibhuwan.com.np",
-  instagram: "https://www.instagram.com/soulxlegend1/",
-}
-```
+---
 
-<div>
-<a href="https://github.com/BhuwanJoshi-01"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/bhuwanjoshi-np/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://joshibhuwan.com.np"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> <a href="https://www.instagram.com/soulxlegend1/"><img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
-</div>
-
-## 📫 How to reach me
-
-```javascript
-const contact = {
-  email: "bhuwanj779@gmail.com",
-  phone: "+9779862488873",
-}
-```
-
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
-
-process.exit(0); // Until next time 👋
-```
+<p align="center"><i>📍 Based in Nepal · Available worldwide (remote)</i></p>
